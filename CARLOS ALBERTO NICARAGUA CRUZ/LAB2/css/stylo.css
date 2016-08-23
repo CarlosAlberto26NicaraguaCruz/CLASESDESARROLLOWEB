@@ -1,0 +1,97 @@
+*{
+	padding:0;
+	margin:0;
+	border: 0;
+}
+
+body{
+font-family:Arial,Helvetica;
+}
+
+nav ul li{
+	display: inline-block;
+	padding: 10px;
+	font-size: 1.5em;
+	margin-right: 15px;
+	color: white;
+}
+
+a{ text-decoration: none; color: brown; }
+
+li:hover{background:#C68888;}
+
+nav{margin-top: 25px;
+margin-top: 40px;
+text-align: center;}
+
+body{text-align: center;
+background-color: #D8D8D8;}
+
+
+
+header{padding: 80px;
+background: #F3E2A9;
+text-align: center;}
+
+header button
+{
+	background-color: #FA5882;
+  border: 4px solid white;
+  color: black;
+  padding: 8px 11px;
+  text-decoration: none;
+}
+body main img{max-width: 100%;}
+
+h1{text-align: center;}
+
+article img
+{border:1px solid #ddd;
+	border-radius:4px
+	padding: 5px;
+	max-width: 30%;
+	text-align: center;
+}
+
+article #art1 button
+{ background-color: #FA5882;
+  border: 4px solid red;
+  color: black;
+  padding: 8px 11px;
+  text-decoration: none;
+align-content: center;
+   }
+
+   article div p{text-align: justify;
+   	max-width: 80%;}
+
+#sec2{padding: 80px;}
+
+article main p{ text-align: center; }
+
+table tr td img{ max-width: 70%; }
+
+section{padding: 70px;}
+
+section table tr td article p{ text-align: justify; }
+
+#tab2{text-align: center;}
+
+#tab2 tr td img{max-width: 200px;
+}
+#im6{max-width: 80%;}
+
+
+footer{
+text-align: center;
+background: #FA5858;
+padding: 20px;
+color: white;
+ }
+
+ #btn4{background-color: #F5F6CE;
+  border: 4px solid orange;
+  color: black;
+  padding: 6px 90px;
+  text-decoration: none;
+align-content: center;}
